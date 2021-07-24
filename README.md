@@ -6,3 +6,6 @@ some text
 
 # checking autocorrect
 is it working?
+
+# did you pull to master
+yes
